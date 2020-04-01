@@ -1,0 +1,1 @@
+scalac -bootclasspath /Users/ham4690/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1.jar -classpath /Users/ham4690/Documents/AOJ/scala_aoj/project/target/scala-2.13/classes /Users/ham4690/Documents/AOJ/scala_aoj/project/src/main/scala/Hello.scala
